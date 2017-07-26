@@ -2,15 +2,10 @@
 네이버 분야별 인기 검색어 파싱 프로그램
 
 # Setup
-This is a normal paragraph:
-    
     $ pip install selenium
     $ brew install phantomjs
-end code block.
 
 # Usage
-This is a normal paragraph:
-    
     $ NaverSectionSearch.py [KeyWord] or [Help]
     KeyWord: 
     [Entertainment] == TV오락
@@ -23,11 +18,8 @@ This is a normal paragraph:
     [Housewife]     == 주부
     [Collegian]     == 대학생
     [Teenager]      == 청소년
-end code block.
 
 # Example
-This is a normal paragraph:
-    
     $ NaverSectionSearch.py Car
     
      1위 : 쏘렌토
@@ -40,4 +32,3 @@ This is a normal paragraph:
      8위 : 티볼리아머
      9위 : 카니발
     10위 : 싼타페
-end code block.
