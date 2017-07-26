@@ -1,6 +1,11 @@
 # Naver-Section-Search
 네이버 분야별 인기 검색어 파싱 프로그램
 
+# Environment
+
+* Mac OS
+* Python 3.6.1
+
 # Setup
     $ pip install selenium
     $ brew install phantomjs
