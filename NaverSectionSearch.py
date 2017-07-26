@@ -56,7 +56,7 @@ def parsing(options):
 if __name__ == "__main__":
 
     if len(sys.argv) is not 2:
-        print("UASGE: naverPopularSearches.py [KeyWord] or [Help]")
+        print("UASGE: NaverSectionSearch.py [KeyWord] or [Help]")
     elif sys.argv[1] == "Help":
         help()
     else:
