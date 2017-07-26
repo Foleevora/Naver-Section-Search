@@ -6,7 +6,7 @@
     $ brew install phantomjs
 
 # Usage
-    $ NaverSectionSearch.py [KeyWord] or [Help]
+    $ python3 NaverSectionSearch.py [KeyWord] or [Help]
     KeyWord: 
     [Entertainment] == TV오락
     [Shopping]      == 쇼핑
@@ -20,7 +20,7 @@
     [Teenager]      == 청소년
 
 # Example
-    $ NaverSectionSearch.py Car
+    $ python3 NaverSectionSearch.py Car
     
      1위 : 쏘렌토
      2위 : 코나
